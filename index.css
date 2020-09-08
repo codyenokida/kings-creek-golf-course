@@ -1,0 +1,29 @@
+#navbar-primary, .navbar-nav { 
+    width: 100%;
+    text-align: center;
+}
+
+#navbar-primary li, .navbar-nav li { 
+    display: inline-block;
+    float: none;
+}
+
+#navbar-primary li a, .navbar-nav li a { 
+    display: inline-block;
+    float: none;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+a {
+    color: inherit;
+}
+
+nav a {
+    color: black;
+}
+
+nav a:hover {
+    color: red;
+    background-color: transparent !important;
+}
