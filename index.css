@@ -45,6 +45,6 @@ nav a:hover {
 .landing-container {
     width: 100vw;
     height: 100vh;
-    background-image: url('/assets/DJI_0681.JPG');
+    /* background-image: url('/assets/DJI_0681.JPG'); */
     background-position: center center;
 }
